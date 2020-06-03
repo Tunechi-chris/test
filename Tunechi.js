@@ -1,6 +1,6 @@
-let person = {
-    Name:'Mudalue Emeka',
-    log : 'HNG-01029',
-    language: 'javascript'
-};
-console.log(JSON.stringify((`Hello world, this is ${person.Name} with HNGi7 ID${person.log} using ${person.language} for stage 2 task`)));
+let FullName='Mudalue Emeka';
+  let slack = 'HNG-01029';
+  let  language= 'javascript';
+  let  email= 'emekachristian511@gmail.com';
+
+console.log(`Hello World, this is ${FullName} with HNGi7 ID ${slack} using ${language} for stage 2 task`);
